@@ -1,0 +1,5 @@
+/data/*
+/analysis/train.csv
+/analysis/test.csv
+/analysis/all_train.csv
+analysis/results/*

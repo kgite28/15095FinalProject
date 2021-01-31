@@ -2,7 +2,7 @@
 Fairness in Mortgage Application Approvals
 MIT Sloan 15.095 Fall 2020 Project
 
-Team Members: Kiran Gite (ksgite@mit.edu, github kgite28), John Lazenby (jlazenby@mit.edu, github johnlazenby)
+Team Members: Kiran Gite (ksgite@mit.edu, github kgite28), John Lazenby (jlazenby@mit.edu, github [johnlazenby](https://github.com/johnlazenby))
 
 Problem Summary
 
